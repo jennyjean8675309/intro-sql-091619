@@ -18,7 +18,6 @@ Let's execute all of the following SQL challenges in the DB Browser.
 ## Challenges
 
 1. Write the SQL to return all of the rows in the artists table
-``` ```
 
 2. Write the SQL to select the artist with the name "Black Sabbath"
 
